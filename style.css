@@ -289,3 +289,4 @@ input:focus,select:focus,textarea:focus{outline:2px solid var(--braz);outline-of
 .lb-x{top:12px;right:12px}.lb-p{left:12px;top:50%}.lb-n{right:12px;top:50%}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 .pod-hero.split h1{font-size:clamp(36px,3.6vw,60px);max-width:18ch}
+@media (max-width:959px){.onas-foto{max-width:250px}}
